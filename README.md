@@ -1,82 +1,154 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20👋%20I'm%20Mask-MJ&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20·%20Building%20with%20TypeScript&descSize=16&descAlignY=55&descAlign=50)
-
 <div align="center">
 
-### 🚀 Full-Stack Developer | Vue · NestJS · TikTok Ecosystem
+<!-- Dynamic Typing Effect Header -->
+<a href="https://github.com/Mask-MJ">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+%F0%9F%91%8B+I'm+Mask-MJ;Full-Stack+Architect+%7C+TypeScript+Artisan" alt="Typing SVG" />
+</a>
 
-专注于跨境电商数据平台、SaaS 管理后台与 AI 应用的开发
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Mask-MJ?style=social)](https://github.com/Mask-MJ)
+<!-- Quick Bio -->
+<samp>
+Crafting scalable systems at the intersection of
+<br/>
+<b>E-commerce Data Intelligence</b> · <b>SaaS Architecture</b> · <b>AI Integration</b>
+</samp>
+
+<br/><br/>
+
+<!-- Social Badges - Minimal & Clean -->
+[![GitHub](https://img.shields.io/badge/-Mask--MJ-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mask-MJ)
 
 </div>
 
----
+<!-- Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Engineering Philosophy
+
+```typescript
+const MaskMJ = {
+  role: "Full-Stack Architect",
+  focus: ["Cross-border E-commerce", "SaaS Platforms", "AI Applications"],
+  architecture: {
+    frontend:  ["Vue 3 Composition API", "React/Next.js", "Naive UI"],
+    backend:   ["NestJS", "Prisma ORM", "TypedSQL"],
+    data:      ["PostgreSQL", "Redis", "MinIO"],
+    devops:    ["Docker", "Nginx", "GitHub Actions", "Gitea"],
+    patterns:  ["Domain-Driven Design", "Multi-tenant SaaS", "Event Sourcing"],
+  },
+  currentProject: "Data Hub — TikTok Shop analytics & cross-border operations platform",
+  passion: "Turning complex data flows into elegant, maintainable systems",
+} as const;
+```
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;Tech Arsenal
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="150">
+
+**Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python" />
+
+</td>
+<td align="center" width="150">
 
 **Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs" />
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Naive UI](https://img.shields.io/badge/-Naive%20UI-18A058?logo=vue.js&logoColor=white&style=for-the-badge)
+</td>
+<td align="center" width="150">
 
 **Backend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nestjs,prisma,graphql" />
 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+</td>
+<td align="center" width="150">
 
-**DevOps & Tools**
+**Data & Infra**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker" />
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+</td>
+<td align="center" width="150">
 
+**Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,linux,nginx" />
+
+</td>
+</tr>
+</table>
 </div>
 
----
-
-### 📊 GitHub Stats
+## 🏗️ &nbsp;Signature Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mask-MJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<a href="https://github.com/Mask-MJ/server-template">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mask-MJ&repo=server-template&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mask-MJ&layout=compact&theme=tokyonight&langs_count=8" />
+<a href="https://github.com/Mask-MJ/client-template">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mask-MJ&repo=client-template&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Mask-MJ/sinopec-knowledge-base">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mask-MJ&repo=sinopec-knowledge-base&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Mask-MJ/sanyou-chat-web">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mask-MJ&repo=sanyou-chat-web&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
 
 </div>
+
+## 📈 &nbsp;GitHub Analytics
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mask-MJ&theme=tokyonight&date_format=%5BY.%5Dn.j)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mask-MJ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mask-MJ&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+
+<br/><br/>
+
+<img width="700" src="https://streak-stats.demolab.com?user=Mask-MJ&theme=tokyonight&hide_border=true&border_radius=12&date_format=%5BY.%5Dn.j&card_width=700" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Mask-MJ&theme=tokyo-night&hide_border=true&radius=12&area=true&area_color=667eea" />
 
 </div>
 
----
+<!-- Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mask-MJ/Mask-MJ/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mask-MJ/Mask-MJ/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Mask-MJ/Mask-MJ/output/github-snake-dark.svg" width="900" />
+  </picture>
+</div>
 
-### 🌟 Featured Projects
-
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| [server-template](https://github.com/Mask-MJ/server-template) | 🏗️ NestJS + Prisma 后端快速启动模板 | TypeScript, NestJS, Prisma |
-| [client-template](https://github.com/Mask-MJ/client-template) | 🎨 Vue 3 + Naive UI 前端管理后台模板 | Vue, TypeScript, Naive UI |
-| [sinopec-knowledge-base](https://github.com/Mask-MJ/sinopec-knowledge-base) | 📚 企业知识库管理系统 | TypeScript, NestJS |
-| [sanyou-chat-web](https://github.com/Mask-MJ/sanyou-chat-web) | 💬 AI 聊天应用前端界面 | Vue, TypeScript |
-
----
-
-### 📫 Connect
+<!-- Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-如果你对跨境电商、TikTok 数据分析或全栈开发感兴趣，欢迎交流！
+<samp>
+<b>「 Code is poetry. Architecture is art. 」</b>
+</samp>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mask-MJ&color=667eea&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
