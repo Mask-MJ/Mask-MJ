@@ -1,13 +1,9 @@
 <div align="center">
 
-<!-- Dynamic Typing Effect Header -->
 <a href="https://github.com/Mask-MJ">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+%F0%9F%91%8B+I'm+Mask-MJ;Full-Stack+Architect+%7C+TypeScript+Artisan" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Quick Bio -->
 <samp>
 Crafting scalable systems at the intersection of
 <br/>
@@ -16,15 +12,13 @@ Crafting scalable systems at the intersection of
 
 <br/><br/>
 
-<!-- Social Badges - Minimal & Clean -->
 [![GitHub](https://img.shields.io/badge/-Mask--MJ-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mask-MJ)
 
 </div>
 
-<!-- Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Engineering Philosophy
+## ⚡ Engineering Philosophy
 
 ```typescript
 const MaskMJ = {
@@ -42,7 +36,7 @@ const MaskMJ = {
 } as const;
 ```
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;Tech Arsenal
+## 🧰 Tech Arsenal
 
 <div align="center">
 <table>
@@ -86,7 +80,7 @@ const MaskMJ = {
 </table>
 </div>
 
-## 🏗️ &nbsp;Signature Projects
+## 🏗️ Signature Projects
 
 <table>
 <tr>
@@ -127,21 +121,18 @@ AI-powered chat application with multi-model support and conversation management
 </tr>
 </table>
 
-## 📈 &nbsp;GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<!-- Streak Stats - Working -->
 <img width="700" src="https://streak-stats.demolab.com?user=Mask-MJ&theme=tokyonight&hide_border=true&border_radius=12&date_format=%5BY.%5Dn.j&card_width=700" />
 
 <br/><br/>
 
-<!-- Activity Graph - Working -->
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Mask-MJ&theme=tokyo-night&hide_border=true&radius=12&area=true&area_color=667eea" />
 
 </div>
 
-<!-- Contribution Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mask-MJ/Mask-MJ/output/github-snake-dark.svg" />
@@ -150,17 +141,11 @@ AI-powered chat application with multi-model support and conversation management
   </picture>
 </div>
 
-<!-- Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
-
-<samp>
-<b>「 Code is poetry. Architecture is art. 」</b>
-</samp>
-
+<samp><b>「 Code is poetry. Architecture is art. 」</b></samp>
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mask-MJ&color=667eea&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
