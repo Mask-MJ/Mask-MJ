@@ -88,43 +88,55 @@ const MaskMJ = {
 
 ## 🏗️ &nbsp;Signature Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Mask-MJ/server-template">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mask-MJ&repo=server-template&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Mask-MJ/client-template">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mask-MJ&repo=client-template&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+### [🏗️ server-template](https://github.com/Mask-MJ/server-template)
+Production-ready NestJS + Prisma + PostgreSQL server starter with auth, RBAC, and API documentation.
 
-<br/>
+`TypeScript` `NestJS` `Prisma` `PostgreSQL`
 
-<a href="https://github.com/Mask-MJ/sinopec-knowledge-base">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mask-MJ&repo=sinopec-knowledge-base&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Mask-MJ/sanyou-chat-web">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mask-MJ&repo=sanyou-chat-web&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+</td>
+<td width="50%">
 
-</div>
+### [🎨 client-template](https://github.com/Mask-MJ/client-template)
+Vue 3 + Naive UI admin dashboard template with dynamic routing, permission system, and i18n.
+
+`Vue 3` `TypeScript` `Naive UI` `Pinia`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [📚 sinopec-knowledge-base](https://github.com/Mask-MJ/sinopec-knowledge-base)
+Enterprise knowledge base management platform for document organization and team collaboration.
+
+`TypeScript` `NestJS` `Full-text Search`
+
+</td>
+<td width="50%">
+
+### [💬 sanyou-chat-web](https://github.com/Mask-MJ/sanyou-chat-web)
+AI-powered chat application with multi-model support and conversation management.
+
+`Vue 3` `TypeScript` `AI/LLM`
+
+</td>
+</tr>
+</table>
 
 ## 📈 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mask-MJ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mask-MJ&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-
-<br/><br/>
-
+<!-- Streak Stats - Working -->
 <img width="700" src="https://streak-stats.demolab.com?user=Mask-MJ&theme=tokyonight&hide_border=true&border_radius=12&date_format=%5BY.%5Dn.j&card_width=700" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
+<!-- Activity Graph - Working -->
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Mask-MJ&theme=tokyo-night&hide_border=true&radius=12&area=true&area_color=667eea" />
 
 </div>
