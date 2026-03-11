@@ -121,6 +121,55 @@ AI-powered chat application with multi-model support and conversation management
 </tr>
 </table>
 
+## 🤝 Open Source Contributions
+
+<table>
+<tr>
+<th>Project</th>
+<th>PR</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>
+
+[vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
+
+</td>
+<td>
+
+[#4271](https://github.com/vbenjs/vue-vben-admin/pull/4271) ✅
+
+</td>
+<td>Fix hidden header nav bar causing settings button to not display</td>
+</tr>
+<tr>
+<td>
+
+[openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript)
+
+</td>
+<td>
+
+[#1751](https://github.com/openapi-ts/openapi-typescript/pull/1751) ✅
+
+</td>
+<td>Fix misquoted request in middleware auth documentation</td>
+</tr>
+<tr>
+<td>
+
+[ownia/homebrew-ownia](https://github.com/ownia/homebrew-ownia)
+
+</td>
+<td>
+
+[#75](https://github.com/ownia/homebrew-ownia/pull/75) ✅
+
+</td>
+<td>Fix filename mismatch in so-novel formula (<code>main.json</code> → <code>main-rules.json</code>)</td>
+</tr>
+</table>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
